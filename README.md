@@ -15,6 +15,13 @@ Now supports both regular sculpt meshes and **Multiresolution sculpting** while 
 - Alt + Shift + R shortcut
 - Sculpt Mode sidebar panel
 
+## Installation
+
+1. Download the latest release.
+2. In Blender, open **Edit → Preferences → Add-ons**.
+3. Choose **Install from Disk** and select the downloaded add-on package.
+4. Enable **Sculpt Stroke Replay**.
+
 ## Usage
 <img width="800" height="620" alt="ezgif-4c381a62effaa28b" src="https://github.com/user-attachments/assets/4264c1a2-bd39-44d8-aef8-9c63316bda44" />
 
